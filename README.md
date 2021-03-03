@@ -3,7 +3,8 @@
 # Гераськин Егор Владимирович
 ### Стек применяемых технологий: Java Core, Maven, JDBC, PostgreSQL, HTML5, CSS3, JS, JQuery, Servlet&JSP, Hibernate, Spring
 #### Проекты:
-#### ⚡ [Car Accident](https://github.com/777Egor777/job4j_car_accident) - CRUD-MVC с хранением в Hibernate. (Hibernate, PostgreSQL, Servlet, JSP, Tomcat)
+#### ⚡ [Spring Boot Форум](https://github.com/777Egor777/forum) - Spring Boot web-приложение. Форум с регистрацией и авторизацией(Spring Boot, Spring Security, Hibernate)
+#### ⚡ [Spring Car Accident](https://github.com/777Egor777/job4j_car_accident) - Spring MVC web-приложение (Spring MVC, Spring Data, Spring Security, Hibernate)
 #### ⚡ [Car Market](https://github.com/777Egor777/car_market) - CRUD-MVC с хранением в Hibernate. (Hibernate, PostgreSQL, Servlet, JSP, Tomcat)
 #### ⚡ [TODO-list. Работа через REST API.](https://github.com/777Egor777/todo) - TODO-list (Hibernate, AJAX, PostgreSQL, Servlet, JSP, Tomcat)
 #### ⚡ [Cinema](https://github.com/777Egor777/cinema) - Сервис "Кинотеатр" (JDBC, PostgreSQL, Servlet, JSP, Tomcat)
