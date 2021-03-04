@@ -16,7 +16,7 @@
 #### ⚡ [Grabber](https://github.com/777Egor777/job4j_grabber) - парсер Java-вакансий с сайта Sql.ru(JDBC, PostgreSQL, Jsoup, Liquibase, Junit, Mockito)
 #### ⚡ [Tracker](https://github.com/777Egor777/tracker) - простое консольное CRUD-приложение(JDBC, PostgreSQL, Hibernate, Liquibase, Junit, Mockito)
 #### Алгоритмы и структуры данных:
-1. [Графы](algo#графы) 
+1. [Графы](https://github.com/777Egor777/algo#графы) 
     1.1 [Поиск в глубину](#поиск-в-глубину)
     1.2 [Поиск в ширину](#поиск-в-ширину)
     1.3 [Алгоритм Дейкстры](#алгоритм-дейкстры)
